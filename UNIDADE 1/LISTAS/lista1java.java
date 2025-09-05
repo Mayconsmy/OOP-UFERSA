@@ -1,5 +1,3 @@
-package LISTAS;
-
 import java.util.Scanner;
 
 public class lista1java {
@@ -45,7 +43,7 @@ public class lista1java {
 
         public static void questao4() {
             int soma, mult, valorA, valorB, valorC, valorD;
-            System.out.printf("""
+            System.out.print("""
                     \n
                     Informe o valor de A:
                     Informe o valor de B:
@@ -138,14 +136,8 @@ public class lista1java {
                     System.out.printf("%d é diferente de %d", n1, n2);
                 }
             }
-            else if (n1<=n2){
+            else {
                 System.out.printf("%d é menor ou igual a %d", n1, n2);
-                if (n1 == n2){
-                    System.out.printf("%d é igual a %d", n1, n2);
-                }
-                if (n1 != n2){
-                    System.out.printf("%d é diferente de %d", n1, n2);
-                }
             }
 
         }
@@ -153,6 +145,14 @@ public class lista1java {
     }
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
-
+//        lista1java.questao1();
+//        lista1java.questao2();
+//        lista1java.questao3();
+//        lista1java.questao4();
+//        lista1java.questao5();
+//        lista1java.questao6();
+//        lista1java.questao7();
+//        lista1java.questao8();
+//        lista1java.questao9();
+//        lista1java.questao10();
     }
