@@ -2,6 +2,8 @@ package Lista02.src;
 
 import java.util.Scanner;
 
+//As quests foram numeradas pelo nivel e numero da questao (Ex: n3 - nível 3, questao01)
+
 public class main {
     public static void main(String[] args) {
 //        n3_questao01 n3_questao01 = new n3_questao01();
