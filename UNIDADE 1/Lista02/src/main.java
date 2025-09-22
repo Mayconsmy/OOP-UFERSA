@@ -69,8 +69,8 @@ public class main {
 //        n6_questao02 n6_questao02 = new n6_questao02();
 //        n6_questao02.run();
 //
-        n6_questao03 n6_questao03 = new n6_questao03();
-        n6_questao03.run();
+//        n6_questao03 n6_questao03 = new n6_questao03();
+//        n6_questao03.run();
 //
 //        n6_questao04 n6_questao04 = new n6_questao04();
 //        n6_questao04.run();
