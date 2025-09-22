@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lista1java {
+public static class lista1java {
         public static void questao1() {
             int qtdmin, qtdmax;
 
@@ -366,7 +366,7 @@ public class lista1java {
             }
 
             int mult = maior * menor;
-            float div = maior / menor;
+            float div = (float) maior / menor;
             System.out.printf("Maior valor %d\n",maior);
             System.out.printf("Menor valor %d\n",menor);
             System.out.printf("menor * maior = %d\n", mult);
