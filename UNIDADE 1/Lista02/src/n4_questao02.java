@@ -17,7 +17,7 @@ public class n4_questao02 {
                 fat *= j;
             }
 
-            System.out.printf("O fatorial de %d é %d",num,result );
+            System.out.printf("O fatorial de %d é %d",result,fat );
         }
     }
 }

@@ -19,7 +19,7 @@ public class n5_questao02 {
         }
         System.out.print("Insira os elementos do Vetor Y");
         for(int i = 0; i < n; i++){
-            System.out.printf("y[%d] = ",i+1);
+            System.out.printf("y[%d] = ",i+1 );
             y[i] = input.nextInt();
         }
         // produto escalar
